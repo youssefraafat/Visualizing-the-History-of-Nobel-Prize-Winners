@@ -33,7 +33,7 @@ This Jupyter Notebook provides an in-depth analysis of Nobel Prize winners from 
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/nobel-prize-analysis.git
+   git clone https://github.com/youssefraafat/Visualizing-the-History-of-Nobel-Prize-Winners.git
 2. Clone the repository:
    ```bash
    cd nobel-prize-analysis
